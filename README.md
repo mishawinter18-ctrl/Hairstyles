@@ -2,7 +2,7 @@
 
 The hairstyles recognition is a tool used to detect which hairtype someone has and help them choose what products are best for their hair.
 
-![add image descrition here](direct image link here)
+![add image descrition here](https://github.com/mishawinter18-ctrl/Hairstyles/blob/master/hair.jpg)
 
 ## The Algorithm
 
