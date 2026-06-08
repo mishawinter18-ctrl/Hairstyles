@@ -10,7 +10,9 @@ The resnet18 was trained by using the curly, wavy, and straight datasets. The AI
 
 ## Running this project
 
-1. Add steps for running this project.
-2. Make sure to include any required libraries that need to be installed for your project to run.
+1. To access the model, first you have to write the code, "cd my_project" to access the file.
+2. Then, you have to write out the code, "python3 hair_recognizer.py curlyhair.jpg output.jpg" to access the output data.
+3. explanation of the code: python3[the type of python used] hair_recognizer.py[file name] curlyhair.jpg[the input image] output.jpg[the output image]
+4. The output data such as the classification and the printed text can be found in the terminal as well as on the output image.
 
 [View a video explanation here](video link)# Hairstyles
